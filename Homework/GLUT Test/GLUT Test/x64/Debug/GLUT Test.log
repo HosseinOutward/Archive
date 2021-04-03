@@ -1,0 +1,27 @@
+﻿  Solar.cpp
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(87): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(88): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(89): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(93): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(95): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(97): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(98): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(99): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(104): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(105): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(107): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(109): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(111): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(113): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(114): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(211): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(218): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(236): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(247): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\ext. app files\code\glut\test\glut test\glut test\solar.cpp(251): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  GLUT Test.vcxproj -> D:\Ext. App Files\Code\GLUT\Test\GLUT Test\x64\Debug\GLUT Test.exe
